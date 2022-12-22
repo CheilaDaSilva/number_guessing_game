@@ -31,6 +31,6 @@ It also stores the game history for both new and returning players, which is upd
 
 
 <div id="img" align="left">
-  <img src="https://media.giphy.com/media/3o6Zt7cqmjnCk6VJ0Q/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3o6Zt7cqmjnCk6VJ0Q/giphy.gif" width="300"/>
   </div>
 </div>
