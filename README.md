@@ -1,6 +1,6 @@
 # 💻Project: Number Guessing Game
 
-![game banner](https://user-images.githubusercontent.com/88495091/209221495-6b6ab06d-ad32-4d39-8ccc-7cadc38771fd.png)
+![game banner](https://user-images.githubusercontent.com/88495091/209225003-fdf03767-6ff3-4c7e-a593-b80987676b93.png)
 
 
 ## Project Goal
